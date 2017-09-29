@@ -1724,6 +1724,7 @@ body {
 .cid-qwiFj6Io9F {
   padding-top: 90px;
   padding-bottom: 90px;
+  background-image: url("../../../assets/images/seriologocombined.gif");
 }
 @media (min-width: 992px) {
   .cid-qwiFj6Io9F .mbr-figure {
@@ -1946,7 +1947,7 @@ body {
 .cid-qwBUAJVUuq {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #177396, #ca2955);
+  background: linear-gradient(45deg, #19277f, #17dfe9);
 }
 .cid-qwBUAJVUuq .list-group-item {
   padding: .75rem 3.25rem;
