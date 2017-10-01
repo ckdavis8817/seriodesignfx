@@ -35,7 +35,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -1708,7 +1708,7 @@ body {
 }
 .cid-qvSK4HTIRN {
   padding-top: 60px;
-  padding-bottom: 75px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/chicago-skyline-at-night-1476869511p8u-1920x822.jpg");
 }
 @media (min-width: 992px) {
