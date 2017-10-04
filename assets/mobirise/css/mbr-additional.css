@@ -1721,6 +1721,54 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-qw1Pt4s8bi {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+}
+.cid-qw1Pt4s8bi .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qw1Pt4s8bi .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qw1Pt4s8bi .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qw1Pt4s8bi .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qw1Pt4s8bi .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qw1Pt4s8bi .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qw1Pt4s8bi .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qw1Pt4s8bi .btn-social {
+  border: none !important;
+}
+.cid-qw1Pt4s8bi [class^="socicon-"]:before,
+.cid-qw1Pt4s8bi [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qw1Pt4s8bi .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qw1Pt4s8bi .mbr-section-title {
+  color: #ffffff;
+}
 .cid-qwEeqytSzD {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -2016,51 +2064,6 @@ body {
 }
 .cid-qwBUAJVUuq UL {
   text-align: center;
-}
-.cid-qw1Pt4s8bi {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qw1Pt4s8bi .socicon-bg-facebook {
-  background: #3e5b98;
-  color: #ffffff;
-}
-.cid-qw1Pt4s8bi .socicon-bg-twitter {
-  background: #4da7de;
-  color: #ffffff;
-}
-.cid-qw1Pt4s8bi .socicon-bg-googleplus {
-  background: #dd4b39;
-  color: #ffffff;
-}
-.cid-qw1Pt4s8bi .socicon-bg-vkontakte {
-  background: #5a7fa6;
-  color: #ffffff;
-}
-.cid-qw1Pt4s8bi .socicon-bg-odnoklassniki {
-  background: #f48420;
-  color: #ffffff;
-}
-.cid-qw1Pt4s8bi .socicon-bg-pinterest {
-  background: #c92619;
-  color: #ffffff;
-}
-.cid-qw1Pt4s8bi .socicon-bg-mail {
-  background: #134785;
-  color: #ffffff;
-}
-.cid-qw1Pt4s8bi .btn-social {
-  border: none !important;
-}
-.cid-qw1Pt4s8bi [class^="socicon-"]:before,
-.cid-qw1Pt4s8bi [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-@media (max-width: 767px) {
-  .cid-qw1Pt4s8bi .btn {
-    font-size: 20px !important;
-  }
 }
 .cid-qw1PRbS65m {
   padding-top: 45px;
