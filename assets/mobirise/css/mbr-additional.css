@@ -2066,7 +2066,7 @@ body {
 .cid-qw1PRbS65m {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-qw1PRbS65m .mbr-iconfont {
   font-size: 48px;
@@ -2103,7 +2103,7 @@ body {
   font-style: italic;
 }
 .cid-qw1PRbS65m .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qw1PRbS65m a:not([href]):not([tabindex]) {
   color: #fff;
