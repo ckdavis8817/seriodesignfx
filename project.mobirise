@@ -40,7 +40,13 @@
     "uniqCompNum": 30,
     "versionPublish": "4.3.4",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://seriodesignfx,com",
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
