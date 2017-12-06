@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SERIO Design FX Video Background",
-    "currentPage": "company.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,7 +54,7 @@
       "settings": {
         "main": true,
         "title": "SERIO Design FX - Personalized Content Video Landing Pages Milwaukee Wi",
-        "meta_descr": "For business who needs custom tailored content video website and social media, who are tired and frustrated by the self-service promises that don't look or work as good as advertised. Business' who have trusted consultants who didn't deliver or companies who are not cost effective choices. SERIO Design FX provides a complete digital internet package unique from the one-size fits all WORDPRESS themes with technical issues and off the rack social media that is\nseen every day. SERIO Design FX takes care of the complexity so you can have peace of mind,provides leading-edge video designs and services you can trust.\n",
+        "meta_descr": "For business who needs custom content video website and social media, who are tired and frustrated by the self-service promises that don't look or work as good as advertised. Business' who have trusted consultants who didn't deliver or companies who are not cost effective choices. SERIO Design FX provides a complete digital internet package unique from the one-size fits all WORDPRESS themes with technical issues and off the rack social media that is\nseen every day. SERIO Design FX takes care of the complexity so you can have peace of mind,provides leading-edge video designs and services you can trust.\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1807,7 +1807,7 @@
     "ourstory.html": {
       "settings": {
         "meta_descr": "SERIO Design FX is the brainchild of Charles K, Davis who after years in his profession solving problems for corporations  saw the need in America.  Someone who sees technology as a tool to used to solve problems.",
-        "title": "Our Story",
+        "title": "SERIO Design FX - Our Story started in Chicago 2005",
         "order": 2
       },
       "components": [
