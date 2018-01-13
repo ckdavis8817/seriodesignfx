@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SERIO Design FX Video Background",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1310,7 +1310,8 @@
       "settings": {
         "meta_descr": "The mission is to be a leader in providing  trusted excellence in a media conscience world.  The challenges of the social network can be met with a company that understands the impact of social media. The ability to interconnect online presence and web design. We provide the foundation and continued services for online presence.",
         "title": "SERIO Design FX  Company Mission and Vision",
-        "order": 4
+        "order": 4,
+        "header_custom": "<meta name=\"description\" content=\"Video content leader providing trusted excellence. Our mission is to provide a service for business who needs solutions.\"/>"
       },
       "components": [
         {
@@ -1847,7 +1848,8 @@
       "settings": {
         "meta_descr": "SERIO Design FX is the brainchild of Charles K, Davis who after years in his profession solving problems for corporations  saw the need in America.  Someone who sees technology as a tool to used to solve problems.",
         "title": "SERIO Design FX - Our Story started in Chicago 2005",
-        "order": 5
+        "order": 5,
+        "header_custom": "<meta name=\"description\" content=\"SERO Design FX a company with a long history providing solutions. We started in Information Technology in 1978 and helped implement UNIX and the internet. \"/>"
       },
       "components": [
         {
@@ -2378,7 +2380,8 @@
       "settings": {
         "meta_descr": "Serio Design Fx social media posts. You can look here for the latest developments in video social media. We maintain social channels on YouTube, Facebook,  LinkedIn and Instagram. Our clients are published in these channels giving them an immediate internet footprint. Our video media posts are picked up worldwide.",
         "title": "SERIO Design FX - Blog Social Media",
-        "order": 3
+        "order": 3,
+        "header_custom": "<meta name=\"description\" content=\"All social media posts for SERIO Design FX in one place. You can follow us and all we publish on this page.\"/>"
       },
       "components": [
         {
