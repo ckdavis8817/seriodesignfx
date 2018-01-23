@@ -2111,10 +2111,16 @@ body {
   text-align: center;
 }
 #RSRCULPROContactForm-2a SPAN {
-  color: #ffffff;
+  color: #232323;
 }
 #RSRCULPROContactForm-2a DIV {
-  color: #ffffff;
+  color: #232323;
+}
+#RSRCULPROContactForm-2a H3 {
+  color: #232323;
+}
+#RSRCULPROContactForm-2a SMALL {
+  color: #232323;
 }
 #RSRCULPROContactForm-2a h3 {
   font-size: 46px;
