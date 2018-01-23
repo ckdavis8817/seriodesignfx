@@ -57,8 +57,8 @@
         "main": true,
         "title": "SERIO Design FX - How to get FREE Online Social Internet Presence. ",
         "meta_descr": "Your content video gets an online presence fast. We publish all creations in SERIO Design FX channels along with your social media.  FREE internet advertising by publishing on YouTube social media. The one value added service that no one offers but us. Contact us and get yours now.",
-        "header_custom": "<meta name=\"description\" content=\"You can have video content and social media that makes ranking easier. Find out how video content ranks higher with Google here.\"/>\n<meta name=\"keywords\" content=\"social media,online,presence,video content,Milwaukee,building,creating,service\"/>\n<meta name=\"p:domain_verify\" content=\"e1290b39b3884beb88a76c95a623d0b8\"/>",
-        "footer_custom": "",
+        "header_custom": "<meta name=\"description\" content=\"You can have video content and social media that makes ranking easier. Find out how video content ranks higher with Google here.\"/>\n<meta name=\"keywords\" content=\"social media,online,presence,video content,Milwaukee,building,creating,service\"/>\n<meta name=\"p:domain_verify\" content=\"e1290b39b3884beb88a76c95a623d0b8\"/>\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a6787274b401e45400c551b/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
+        "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a6787274b401e45400c551b/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
       },
       "components": [
@@ -1125,7 +1125,7 @@
             "showTitle": true,
             "showText": true,
             "yourpublickeyhere": "6LfHAUIUAAAAADUCU_XTut7nzuRPFNS2K8zTsZWX",
-            "to": "info@seriodesignfx.com",
+            "to": "seriodsgn@gmail.com",
             "sendCopy": false,
             "copyto": "SERIO Design FX",
             "reqdPhone": false,
@@ -1178,7 +1178,7 @@
             "overlayOpacity": "0.1"
           },
           "datePrompt": "Date Of Birth",
-          "to": "info@seriodesignfx.com",
+          "to": "seriodsgn@gmail.com",
           "dateStart": "-100y",
           "dateFormat": "DD dd MM yyyy",
           "dateEnd": "-16y",
