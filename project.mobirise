@@ -1125,7 +1125,7 @@
             "showTitle": true,
             "showText": true,
             "yourpublickeyhere": "6LfHAUIUAAAAADUCU_XTut7nzuRPFNS2K8zTsZWX",
-            "to": "seriodsgn@gmail.com",
+            "to": "info@seriodesignfxl.com",
             "sendCopy": false,
             "copyto": "SERIO Design FX",
             "reqdPhone": false,
@@ -1178,7 +1178,7 @@
             "overlayOpacity": "0.1"
           },
           "datePrompt": "Date Of Birth",
-          "to": "seriodsgn@gmail.com",
+          "to": "info@seriodesignfxl.com",
           "dateStart": "-100y",
           "dateFormat": "DD dd MM yyyy",
           "dateEnd": "-16y",
