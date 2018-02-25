@@ -4628,7 +4628,7 @@ body {
 .cid-qHjGxkdcAu {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #232323;
+  background-color: #19277f;
 }
 .cid-qHjGxkdcAu .icon-transition span {
   padding: 0.1rem 0.9rem;
@@ -4718,6 +4718,21 @@ body {
   .cid-qHjGxkdcAu .social-list {
     text-align: center !important;
   }
+}
+.cid-qKwpB3oLB5 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #19277f;
+}
+.cid-qKwpB3oLB5 .mbr-text,
+.cid-qKwpB3oLB5 blockquote {
+  color: #767676;
+}
+.cid-qKwpB3oLB5 .mbr-text B {
+  color: #ffffff;
+}
+.cid-qKwpB3oLB5 .mbr-text DIV {
+  color: #ffffff;
 }
 .cid-qvReov55SN .navbar {
   padding: .5rem 0;
