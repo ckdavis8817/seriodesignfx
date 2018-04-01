@@ -1792,7 +1792,7 @@ body {
 .cid-qwj9hGIDFf {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/logoworld2048x1152-2000x1125.png");
+  background-image: url("../../../assets/images/mbr-4-1620x1080.jpg");
 }
 .cid-qwj9hGIDFf H2 {
   text-align: center;
@@ -2009,15 +2009,15 @@ body {
     padding: 0 2rem 2rem 2rem !important;
   }
 }
-.cid-qwBUAJVUuq {
+.cid-qO0m64qIai {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #19277f, #17dfe9);
+  background-color: #efefef;
 }
-.cid-qwBUAJVUuq .list-group-item {
+.cid-qO0m64qIai .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-qwBUAJVUuq .plan {
+.cid-qO0m64qIai .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -2025,13 +2025,14 @@ body {
   padding-left: 0;
   color: #767676;
 }
-.cid-qwBUAJVUuq .plan .list-group-item {
+.cid-qO0m64qIai .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
+  background-color: transparent;
   border: 0;
 }
-.cid-qwBUAJVUuq .plan .list-group-item::after {
+.cid-qO0m64qIai .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -2040,32 +2041,32 @@ body {
   content: "";
   background-color: #eaeaea;
 }
-.cid-qwBUAJVUuq .plan .list-group-item:last-child::after {
+.cid-qO0m64qIai .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-qwBUAJVUuq .plan-header {
+.cid-qO0m64qIai .plan.favorite {
+  background-color: #fff;
+  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
+}
+.cid-qO0m64qIai .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-qwBUAJVUuq .plan-header,
-.cid-qwBUAJVUuq .plan-body {
-  background-color: #fff;
-}
-.cid-qwBUAJVUuq .price-figure {
+.cid-qO0m64qIai .price-figure {
   font-weight: 700;
   color: #232323;
 }
-.cid-qwBUAJVUuq .price-value {
+.cid-qO0m64qIai .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-qwBUAJVUuq .price-figure {
+  .cid-qO0m64qIai .price-figure {
     font-size: 4.25rem;
   }
 }
-.cid-qwBUAJVUuq UL {
-  text-align: center;
+.cid-qO0m64qIai .plan-title {
+  color: #232323;
 }
 .cid-qw1Q7680qB {
   padding-top: 30px;
@@ -5651,7 +5652,7 @@ body {
 .cid-qHPqBnrGRC {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/jumbotron1.jpg");
+  background-image: url("../../../assets/images/jumbotron5.jpg");
 }
 .cid-qHPqTwTpwE {
   padding-top: 30px;
@@ -6158,7 +6159,7 @@ body {
 .cid-qJ6Cs8aj11 {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/jumbotron1.jpg");
+  background-image: url("../../../assets/images/jumbotron5.jpg");
 }
 .cid-qJ6Cs9gStP {
   padding-top: 30px;
