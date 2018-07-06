@@ -1760,21 +1760,26 @@ body {
 .cid-qvSK4HTIRN .mbr-section-title {
   text-align: center;
 }
-.cid-qGhyaYT6iN {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-qWZJvUKudD {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #115488;
 }
-.cid-qGhyaYT6iN .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
+@media (min-width: 992px) {
+  .cid-qWZJvUKudD .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-qGhyaYT6iN .mbr-author-name {
-  font-weight: bold;
+@media (max-width: 992px) {
+  .cid-qWZJvUKudD .mbr-figure {
+    padding-bottom: 1rem;
+  }
 }
-.cid-qGhyaYT6iN .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
+.cid-qWZJvUKudD .mbr-text {
+  color: #767676;
+}
+.cid-qWZJvUKudD .mbr-text B {
+  color: #f9f295;
 }
 .cid-qwiFj6Io9F {
   background-image: url("../../../assets/images/airplane-in-the-sky-1920x1280.jpg");
@@ -1796,49 +1801,21 @@ body {
 .cid-qwiFj6Io9F .mbr-section-btn {
   text-align: left;
 }
-.cid-qPkiz1lgIG {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/background3.jpg");
+.cid-qGhyaYT6iN {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #115488;
 }
-.cid-qPkiz1lgIG .testimonials-container {
-  margin: 0 auto;
+.cid-qGhyaYT6iN .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
 }
-.cid-qPkiz1lgIG .testimonials-container .testimonials-item {
-  justify-content: center;
-  margin-top: 3rem;
+.cid-qGhyaYT6iN .mbr-author-name {
+  font-weight: bold;
 }
-.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user {
-  background: #ffffff;
-}
-.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user.row {
-  margin: 0;
-}
-.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user .user_image {
-  width: 150px;
-  height: 150px;
-  overflow: hidden;
-  margin: 2rem auto 2rem auto;
-}
-.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user .testimonials-caption {
-  padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
-}
-@media (max-width: 260px) {
-  .cid-qPkiz1lgIG .user_image {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qPkiz1lgIG .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
-  }
+.cid-qGhyaYT6iN .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 .cid-qvT4wVVj3r {
   padding-top: 30px;
@@ -1920,6 +1897,50 @@ body {
 }
 .cid-qvT4wVVj3r .mbr-crt-title {
   color: #ffffff;
+}
+.cid-qPkiz1lgIG {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-qPkiz1lgIG .testimonials-container {
+  margin: 0 auto;
+}
+.cid-qPkiz1lgIG .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+}
+.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-qPkiz1lgIG .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-qPkiz1lgIG .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qPkiz1lgIG .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
 }
 .cid-qNxqy3STpS {
   padding-top: 30px;
@@ -5231,7 +5252,7 @@ body {
 .cid-qHPqBnrGRC {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/jumbotron1.jpg");
+  background-image: url("../../../assets/images/jumbotron3.jpg");
 }
 .cid-qHPqTwTpwE {
   padding-top: 30px;
@@ -5738,7 +5759,7 @@ body {
 .cid-qJ6Cs8aj11 {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/jumbotron1.jpg");
+  background-image: url("../../../assets/images/jumbotron3.jpg");
 }
 .cid-qJ6Cs9gStP {
   padding-top: 30px;
