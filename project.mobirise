@@ -37,11 +37,11 @@
         "#3dd9d6"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/ckdlogoanimatedgif.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/seriodesignfxlogonewblackbgrd-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-KHJ5CVQ');</script>\r\n<!-- End Google Tag Manager -->\r\n<!-- Facebook Pixel Code -->\r\n<script>\r\n  !function(f,b,e,v,n,t,s)\r\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\r\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\r\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\r\n  n.queue=[];t=b.createElement(e);t.async=!0;\r\n  t.src=v;s=b.getElementsByTagName(e)[0];\r\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\r\n  'https://connect.facebook.net/en_US/fbevents.js');\r\n  fbq('init', '129391814393166');\r\n  fbq('track', 'PageView');\r\n</script>\r\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\r\n  src=\"https://www.facebook.com/tr?id=129391814393166&ev=PageView&noscript=1\"\r\n/></noscript>\r\n<!-- End Facebook Pixel Code -->\r\n<script type=\"text/javascript\">\r\n_linkedin_data_partner_id = \"199785\";\r\n</script><script type=\"text/javascript\">\r\n(function(){var s = document.getElementsByTagName(\"script\")[0];\r\nvar b = document.createElement(\"script\");\r\nb.type = \"text/javascript\";b.async = true;\r\nb.src = \"https://snap.licdn.com/li.lms-analytics/insight.min.js\";\r\ns.parentNode.insertBefore(b, s);})();\r\n</script>\r\n<noscript>\r\n<img height=\"1\" width=\"1\" style=\"display:none;\" alt=\"\" src=\"https://dc.ads.linkedin.com/collect/?pid=199785&fmt=gif\" />\r\n</noscript>",
     "versionFirst": "4.3.0",
-    "uniqCompNum": 168,
+    "uniqCompNum": 169,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -62,7 +62,8 @@
         "name": "Orbitron",
         "url": "https://fonts.googleapis.com/css?family=Orbitron:400,500,700,900"
       }
-    ]
+    ],
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
@@ -943,6 +944,39 @@
               }
             ]
           }
+        },
+        {
+          "_params": {
+            "token": "6031206250.727bfe1.6352da2b5e454c259824abfd719e6cfd",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "SERIO Design FX Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-4o"
         },
         {
           "_styles": {
