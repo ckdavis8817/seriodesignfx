@@ -71,7 +71,7 @@
         "main": true,
         "title": " SERIO Design FX: Helping You Build and Grow Your Business  ",
         "meta_descr": "Your business will be helped to grow with video web design.. You may be surprised to learn that adding video to your landing page could be one of the most lucrative moves you can make  combined with social media video lead generation,  social media management and a proactive SEO programs. Services designed for needs and goals of business. You can schedule a FREE phone consultation here. ",
-        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Discover how you to build your business using social media, web video,YouTube,Facebook,Google\" />\n<meta name=\"keywords\" content=\"landing page, web, design, online, presence, video , social, media, milwaukee, branding, best, new,newest,1st,choice,targeted,build,business\" />\n<meta name=\"author\" content=\"Charles K Davis\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<title> SERIO Design FX |  Helping You Build and Grow Your Business  </title>\n<!-- video,web,design -->\n<meta name=\"p:domain_verify\" content=\"e1290b39b3884beb88a76c95a623d0b8\"/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-106488889-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-106488889-1');\n</script>",
+        "header_custom": "<link rel=\"alternate\" href=\"https://seriodesignfx.com\"  hreflang=\"en\" />\n<link rel=\"alternate\" href=\"https://seriodesignfx.com\"  hreflang=\"en-us\" />\n<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Discover how you to build your business using social media, web video,YouTube,Facebook,Google\" />\n<meta name=\"keywords\" content=\"landing page, web, design, online, presence, video , social, media, milwaukee, branding, best, new,newest,1st,choice,targeted,build,business\" />\n<meta name=\"author\" content=\"Charles K Davis\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<title> SERIO Design FX |  Helping You Build and Grow Your Business  </title>\n<!-- video,web,design -->\n<meta name=\"p:domain_verify\" content=\"e1290b39b3884beb88a76c95a623d0b8\"/>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-106488889-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-106488889-1');\n</script>",
         "footer_custom": "<script type=\"text/javascript\" src=\"js-res/jqBootstrapValidation.js\"></script>\n<script type=\"text/javascript\" src=\"js-res/contact_me.js\"></script>",
         "html_before": ""
       },
@@ -879,7 +879,7 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Social Media Promo",
+                "caption": "Event Promotion",
                 "active": false
               },
               {
@@ -896,21 +896,21 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-5-2-23-48-721999.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-1-0-1-36-103511.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=e6eIunc0tMs",
+                "videoUrl": "https://youtu.be/hZtvIO8tWrk",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Social Media Promo",
+                "caption": "Advertisement",
                 "active": false
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-8-3-21-34-3-198117.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-1-0-2-17-842343.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=vbSI8Ga_vCA",
+                "videoUrl": "https://youtu.be/eWds9LNFTl4",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
                 "alt": "",
@@ -920,9 +920,9 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-9-3-7-2-55-697815.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-1-0-2-55-323217.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=UoweEEMCZP0",
+                "videoUrl": "https://youtu.be/RNRObUiBwIQ",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
                 "alt": "",
@@ -932,14 +932,14 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-2-6-22-51-123566.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-1-0-3-45-624560.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=Xu1uFRAA2Vg",
+                "videoUrl": "https://youtu.be/ARvBuUiWSbg",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Website Video&nbsp;",
+                "caption": "Presentation",
                 "active": true
               }
             ]
@@ -5047,11 +5047,11 @@
           "_name": "image1",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"index.html#header7-3\"><img src=\"@PROJECT_PATH@/assets/images/idea-2009484-1920-1228x842.jpg\" width=\"1400\" alt=\"Innovative Ideas\" title=\"Innovation SERIO Design Fx\"></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qX9pY8IrKE",
+          "_anchor": "image1-4q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image1-4q"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5726,11 +5726,11 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"untangletheinternet.html#content5-2n\"><img src=\"@PROJECT_PATH@/assets/images/pexels-photo-313690womanfrustratedatcomputer-1280x960.jpg\" width=\"1400\" alt=\"Frustrated With The Internet\" title=\"SERIO Design FX We Untangle The Internet\"></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Frustrated With The Internet</div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qX9dlX8jLr",
+          "_anchor": "image3-4p",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image3-4p"
+          "_params": {}
         },
         {
           "_styles": {
