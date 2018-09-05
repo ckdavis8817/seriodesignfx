@@ -38,7 +38,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/seriodesignfxlogonewblackbgrd-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>",
+    "google-analytics": "<amp-analytics type=\"googleanalytics\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\": {\r\n    \"account\": \"UA-106488889-1\"\r\n  },\r\n  \"triggers\": {\r\n    \"trackPageview\": {\r\n      \"on\": \"visible\",\r\n      \"request\": \"pageview\"\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>",
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
@@ -53,7 +53,7 @@
         "main": true,
         "title": "Helping You Grow Your Business Web Social Media  Presence ",
         "meta_descr": " FREE phone consultation; Your business will be helped to grow with video web design.. You may be surprised to learn that adding video to your landing page could be one of the most lucrative moves you can make  combined with social media video lead generation,  social media management and a proactive SEO programs. Services designed for needs and goals of business. You can schedule a FREE phone consultation here. ",
-        "header_custom": "<link rel=\"alternate\" href=\"https://seriodesignfx.com\"  hreflang=\"en\" />\n<link rel=\"alternate\" href=\"https://seriodesignfx.com\"  hreflang=\"en-us\" />\n<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Discover how you to build your business using social media, web video,YouTube,Facebook,Google\" />\n<meta name=\"keywords\" content=\"video marketing, video landing page, web design, online, presence, video , social, media, milwaukee wi best social media videos, milwaukee wi best internet marketing\" />\n<meta name=\"author\" content=\"Charles K Davis\">\n<meta name=\"robots\" content=\"index, follow\">\n<title> SERIO Design FX |  Helping You Build and Grow Your Business  </title>\n<!-- video,web,design -->\n<meta name=\"p:domain_verify\" content=\"e1290b39b3884beb88a76c95a623d0b8\"/>\n<amp-analytics type=\"googleanalytics\">\n<script type=\"application/json\">\n{\n  \"vars\": {\n    \"account\": \"UA-106488889-1\"\n  },\n  \"triggers\": {\n    \"trackPageview\": {\n      \"on\": \"visible\",\n      \"request\": \"pageview\"\n    }\n  }\n}\n</script>\n</amp-analytics>",
+        "header_custom": "<link rel=\"alternate\" href=\"https://seriodesignfx.com\"  hreflang=\"en\" />\n<link rel=\"alternate\" href=\"https://seriodesignfx.com\"  hreflang=\"en-us\" />\n<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Discover how you to build your business using social media, web video,YouTube,Facebook,Google\" />\n<meta name=\"keywords\" content=\"video marketing, video landing page, web design, online, presence, video , social, media, milwaukee wi best social media videos, milwaukee wi best internet marketing\" />\n<meta name=\"author\" content=\"Charles K Davis\">\n<meta name=\"robots\" content=\"index, follow\">\n<title> SERIO Design FX |  Helping You Build and Grow Your Business  </title>\n<!-- video,web,design -->\n<meta name=\"p:domain_verify\" content=\"e1290b39b3884beb88a76c95a623d0b8\"/>\n",
         "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-WDG72GB&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>",
         "html_before": ""
       },

@@ -59,7 +59,21 @@ body{font-family: Roboto;}blockquote{border-color: #f9d5bd;}.display-1{font-fami
     </amp-sidebar>
 
 <!-- Google Analytics -->
-<!-- AMP Analytics --><script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<amp-analytics type="googleanalytics">
+<script type="application/json">
+{
+  "vars": {
+    "account": "UA-106488889-1"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
 <!-- /Google Analytics -->
 
 
